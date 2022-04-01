@@ -2,7 +2,7 @@
 Code made by qpzux
 Anything done with this program I am not responsible for.
 
-Backdoor program.
+Backdoor program and webpage for the slave.py file.
 
 Command list:
 view_cwd - see all files in a directory
