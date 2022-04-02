@@ -1,7 +1,7 @@
 # backdoor
 Code made by qpzux
 Anything done with this program I am not responsible for.
-If you do not want the website then this is what you're looking for. https://github.com/qpzux/Backdoor-no-website
+If you do not want the website then this https://github.com/qpzux/Backdoor-no-website is what you're looking for.
 
 Backdoor program and webpage for the slave.py file.
 
